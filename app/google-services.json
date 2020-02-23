@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815037081443",
+    "firebase_url": "https://realtime-chat-64467.firebaseio.com",
+    "project_id": "realtime-chat-64467",
+    "storage_bucket": "realtime-chat-64467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815037081443:android:b26e630a32b2ad2f8b5556",
+        "android_client_info": {
+          "package_name": "com.muflihun.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815037081443-qoepqs8httkohh46tbjvbl9ojs59t1ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdKedZ6n9iQAV9rvbeBueeBcqVM3Y34Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815037081443-qoepqs8httkohh46tbjvbl9ojs59t1ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
